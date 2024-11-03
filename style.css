@@ -98,7 +98,8 @@ nav ul li a:hover {
 }
 
 .about-photo {
-    max-width: 300px; /* Adjust size of the image */
+    max-width: 300px;
+    max-height: 300px; /* Adjust size of the image */
     border-radius: 10px;
 }
 
